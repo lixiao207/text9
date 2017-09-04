@@ -1,0 +1,92 @@
+div {
+	text-align: center;
+}
+
+span {
+	position: absolute;
+	left: 200px;
+	color: #fff;
+	font: 50px/350px '微软雅黑';
+}
+
+section {
+	background: url(../img/2017-09-04_092354.png);
+	height: 600px;
+}
+
+.div {
+	position: absolute;
+	top: 250px;
+}
+
+.em {
+	left: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #999999;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: orange;
+}
+
+.deng {
+	background: cornflowerblue;
+	font-size: 25px;
+	height: 40px;
+	width: 100px;
+}
+
+a:nth-of-type(1) {
+	font-size: 20px;
+	font-weight: bolder
+}
+
+input {
+	height: 30px;
+	width: 200px;
+}
+
+.zi {
+	height: 20px;
+	width: 50px;
+}
+
+section p:nth-of-type(1) {
+	font-size: 20px;
+	color: #000000;
+	font-weight: inherit;
+}
+
+.wang {
+	text-decoration: underline;
+	color: #000000;
+}
+
+#ming {
+	text-decoration: underline;
+	color: red;
+	font-size: 15px;
+}
+
+#man {
+	text-decoration: underline;
+	color: #000000;
+	font-size: 15px;
+}
+
+#nen {
+	/*border: solid;*/
+}
+
+form {
+	background: white;
+}
+
+.he {
+	position: relative;
+	right: 50px;
+}
